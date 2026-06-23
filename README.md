@@ -1,8 +1,8 @@
 # Content Marketing Engine
 
-**LinkedIn, Twitter, blog, newsletter — one pack, every channel.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For marketers: plan, write, and keep on-brand content flowing across every channel.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A full content marketing stack. Includes LinkedIn posts, tweet threads, technical blog, email newsletters, landing page copy, case studies, and brand voice.
+Reach for this when you own a content calendar and need to ship across channels without losing your voice. It runs the full loop: brief and plan a piece, draft it as a LinkedIn post, tweet thread, technical blog, newsletter, landing page, or case study, and keep every output on-brand. The outcome is a repeatable engine that turns one idea into channel-ready content instead of starting from a blank page.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
