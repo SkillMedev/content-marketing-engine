@@ -9,7 +9,7 @@ Reach for this when you own a content calendar and need to ship across channels 
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/content-marketing-engine](https://skillme.dev/pack/content-marketing-engine) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/content-marketing-engine`
+- **With the skills CLI:** `npx skills add SkillMedev/content-marketing-engine`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
