@@ -1,16 +1,17 @@
 # Content Marketing Engine
 
-**For marketers: plan, write, and keep on-brand content flowing across every channel.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For marketers: plan, write, and keep on-brand content flowing across every channel.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-content-marketing-engine).
 
 Reach for this when you own a content calendar and need to ship across channels without losing your voice. It runs the full loop: brief and plan a piece, draft it as a LinkedIn post, tweet thread, technical blog, newsletter, landing page, or case study, capture customer testimonials with an interview script that produces usable quotes, and keep every output on-brand. Every skill carries the working artifacts - hook patterns with good/bad pairs, newsletter and case-study skeletons with fill-in fields, subject-line rules with real benchmarks - so one idea becomes channel-ready content instead of a blank page.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/content-marketing-engine](https://skillme.dev/pack/content-marketing-engine) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/content-marketing-engine?utm_source=github&utm_medium=readme&utm_campaign=pack-content-marketing-engine) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add linkedin-post-writer tweet-thread-builder email-newsletter-pro landing-page-copy case-study-builder testimonial-capture-interview brand-guidelines content-brief --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/content-marketing-engine`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -27,4 +28,4 @@ Reach for this when you own a content calendar and need to ship across channels 
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-content-marketing-engine).
